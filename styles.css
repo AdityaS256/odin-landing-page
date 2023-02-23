@@ -136,3 +136,25 @@ button
     height: 100px;
     width: 100px;
 }
+
+.quote
+{
+    padding: 60px 120px;
+    display: flex;
+    flex-direction: column;
+    background-color: #e5e7eb;
+}
+
+.quote-text
+{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 200;
+}
+
+.writer
+{
+    align-self: flex-end;
+    margin: 16px;
+    font-weight: 600;
+}
